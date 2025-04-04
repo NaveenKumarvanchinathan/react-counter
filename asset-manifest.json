@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-counter/static/css/main.77239ade.css",
+    "main.js": "/react-counter/static/js/main.25cd06d7.js",
+    "static/js/453.3d273f61.chunk.js": "/react-counter/static/js/453.3d273f61.chunk.js",
+    "static/media/WhatsApp Image 2025-04-02 at 18.13.35_55abe4dc.jpg": "/react-counter/static/media/WhatsApp Image 2025-04-02 at 18.13.35_55abe4dc.963ad3e01d6a3954119a.jpg",
+    "index.html": "/react-counter/index.html",
+    "main.77239ade.css.map": "/react-counter/static/css/main.77239ade.css.map",
+    "main.25cd06d7.js.map": "/react-counter/static/js/main.25cd06d7.js.map",
+    "453.3d273f61.chunk.js.map": "/react-counter/static/js/453.3d273f61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77239ade.css",
+    "static/js/main.25cd06d7.js"
+  ]
+}
